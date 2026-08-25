@@ -1,4 +1,4 @@
-# Hi, I'm Linh 👋
+# Hey there, I'm Linh Ton 👋
 **Business Analyst · Software Engineering Background**
 
 > *"There are as many languages as there are people." — Can This Love Be Translated?*

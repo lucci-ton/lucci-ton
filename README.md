@@ -65,21 +65,16 @@ My Software Engineering background provides the technical foundation to understa
 
 ## 🚀 Selected Work & Case Studies
 
-### Management Intern System (MIS) — BA Portfolio
+### Management Intern System (MIS)
 
-*Business System Analysis & Documentation*
+*Business System Analysis & Software Development*
 
-A requirement analysis case study for an intern management platform. Focuses on requirement decomposition, business rule identification, validation logic, and detailed Use Case specifications, creating a structured foundation for system development.
+An intern management platform developed through business analysis and software implementation.
 
-[View BA Portfolio](#)
+- **BA Portfolio:** Requirement analysis, business rules, validation logic, Use Case specifications, and system documentation.
+- **Source Code:** Application implementation, database design, and business process integration.
 
-### Management Intern System (MIS) — Source Code
-
-*System Implementation*
-
-The technical implementation of the MIS project. Demonstrates how structured business requirements, database design, and process flows are translated into a functional application.
-
-[View Source Code](#)
+[View Source Code](https://github.com/lucci-ton/SWP_Iter2)
 
 ### Proactive ERP System
 

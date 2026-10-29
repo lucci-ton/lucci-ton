@@ -15,7 +15,7 @@ I am a Business Analyst with a Software Engineering background, currently workin
 ### ⚙️ What I Work On
 *   **Requirement Analysis:** Functional Requirements, Business Rules, Validation Rules, Edge Cases.
 *   **Business & System Modeling:** UML, BPMN, Activity Diagram, Sequence Diagram, ERD, System Flow.
-*   **Documentation:** BRD, SRS, User Story, Use Case, Functional Specification.
+*   **Documentation:** BRD, SRS, FDS.
 *   **Technical Analysis:** REST API, Request/Response, Data Flow, Database.
 *   **Testing & Validation:** Test Case, API Testing, SQL Data Validation, UAT.
 *   **Collaboration:** Working with PMs, Developers, QA, and stakeholders throughout the SDLC.

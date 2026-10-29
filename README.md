@@ -74,7 +74,7 @@ An intern management platform developed through business analysis and software i
 - **BA Portfolio:** Requirement analysis, business rules, validation logic, Use Case specifications, and system documentation.
 - **Source Code:** Application implementation, database design, and business process integration.
 
-[View Source Code](https://github.com/lucci-ton/SWP_Iter2)
+[View Source Code](https://github.com/lucci-ton/SWP_Iter2) | [View document] (https://github.com/lucci-ton/SWP_Iter2/blob/main/README.md)
 
 ### Proactive ERP System
 
